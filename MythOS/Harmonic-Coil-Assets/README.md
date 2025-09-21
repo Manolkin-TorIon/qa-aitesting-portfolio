@@ -65,5 +65,3 @@ Why this matters
 - Makes your repo feel like a living R&D lab, not just a static document dump.
 - Gives collaborators a clear way to add to the archive without breaking consistency.
 
-If you want, our next step could be to create the Arcanum Vox Lexicon file so the Coil section has its own language bindings documented — tying your conlang work directly into the technical framework. That would make MythOS feel like a fully integrated myth‑tech ecosystem.
-Do you want me to roll straight into building that lexicon file next?
