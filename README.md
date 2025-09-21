@@ -29,7 +29,10 @@ It contains real-world examples of bug reports, test cycles, AI workflow documen
 
 ---
 
+## 📅 Live Projects
+Track what’s in motion right now across MythOS, System Optimization, QA, and AI workflows.
 
+- [View the Live Projects Log](./Live-Projects.md)
 
 ---
 *This repository is a living record — updated as new projects and case studies are completed.*
