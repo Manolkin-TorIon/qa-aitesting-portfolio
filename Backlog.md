@@ -64,7 +64,8 @@ When an item is fully integrated, it will be marked as **~~migrated~~** with the
 | 2025‑09‑21 | Added Redacted Choir origin fragment               | /MythOS/Harmonic-Coil.md                  |
 | 2025‑09‑21 | Added Primarch Tor’Ion epithets                     | /MythOS/Harmonic-Coil.md                  |
 | 2025‑09‑21 | Added Rite of Auric Cleansing                       | /MythOS/Doctrine-Codex.md                |
-
+| 2025‑09‑21 | Added Harmonic Coil early prototype lore            | /MythOS/Harmonic-Coil.md                  |
+| 2025‑09‑21 | Added 'Thyric' term to Arcanum Vox Lexicon          | /MythOS/Arcanum-Vox-Lexicon.md           |
 ---
 
 ## 📂 Related Files
