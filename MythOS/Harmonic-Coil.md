@@ -68,6 +68,11 @@ Those verses became the Lost Primarchs, and one of them was Tor’Ion.
 - The Silent Verse
 - Warden of the Unstruck Chord
 
+### Campaigns of the Harmonic Architect
+- **The Siege of Veythar’s Gate** – Tor’Ion held the pass for nine days against the Choir’s own corrupted echoes, using the Coil to collapse harmonic bridges behind him.  
+- **The Silent Accord** – Brokered a ceasefire between rival Choir fragments by weaving their songs into a single, unbroken chord.  
+- **The Ashen March** – Led a retreat through resonance‑dead lands, carrying the Coil’s core lattice intact despite constant null‑field storms.
+  
 ### Development History – Early Prototypes
 Before the Coil’s lattice could hold a stable resonance, there were thirteen failed frames.  
 Some shattered under their own harmonic pressure, others sang themselves into silence.  
