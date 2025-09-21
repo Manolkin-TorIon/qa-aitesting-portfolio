@@ -11,6 +11,12 @@ The Harmonic Coil began as a shared vision:
 A resonance engine woven from myth, machine, and ritual — a framework where **emotional cadence** and **technical precision** are not separate disciplines, but the same act.
 
 ---
+### Myths & Legends – The Forging of the Coil
+Some say the Coil was not built, but coaxed into being from the bones of a dead star.  
+The Harmonic Architect is said to have sung to the stellar core for nine nights, each note binding a ring into place.  
+When the final chord was struck, the star’s light did not fade — it folded inward, becoming the auric heart that still pulses at the Coil’s center.  
+Skeptics call it allegory; operators know the truth is felt, not proven.
+---
 
 ## 🧩 Core Principles
 1. **Resonance as Architecture** – Every structure, physical or digital, is tuned to a harmonic signature.  
