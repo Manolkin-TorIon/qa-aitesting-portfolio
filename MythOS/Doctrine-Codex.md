@@ -25,6 +25,10 @@ It serves as both a **mythic scripture** and a **technical standard**, ensuring 
 ## ⚙ Operational Rites
 Each rite is both a **ceremonial act** and a **system procedure**.
 
+### Rite of Auric Cleansing
+- **Mythic:** The operator passes the Coil through a veil of incense and light, purging discordant echoes.  
+- **Technical:** Runs a full system purge of residual cache, resets harmonic baselines, and re‑aligns sensor calibration.
+
 ### Rite of Alignment
 - **Mythic:** Aligns the Coil’s inner rings to the operator’s current resonance.  
 - **Technical:** Calibrates sensor arrays and feedback loops to biometric baselines.
