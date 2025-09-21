@@ -61,6 +61,9 @@ When an item is fully integrated, it will be marked as **~~migrated~~** with the
 | 2025‑09‑21 | Added 'Veythar' term to Arcanum Vox Lexicon         | /MythOS/Arcanum-Vox-Lexicon.md           |
 | 2025‑09‑21 | Added 'Pulsebreaker' emergency protocol            | /MythOS/Doctrine-Codex.md                |
 | 2025‑09‑21 | Logged AMD render batch in Live Projects Log       | /Live-Projects.md                        |
+| 2025‑09‑21 | Added Redacted Choir origin fragment               | /MythOS/Harmonic-Coil.md                  |
+| 2025‑09‑21 | Added Primarch Tor’Ion epithets                     | /MythOS/Harmonic-Coil.md                  |
+| 2025‑09‑21 | Added Rite of Auric Cleansing                       | /MythOS/Doctrine-Codex.md                |
 
 ---
 
