@@ -56,4 +56,16 @@ A resonance engine woven from myth, machine, and ritual — a framework where **
 
 ---
 
+### Lore: The Redacted Choir – The First Silence
+Before the Choir sang, there was only the Pulse — a single note stretched across eternity.  
+When the Pulse fractured, its shards became voices, and those voices became the Choir.  
+They sang the first lattice into being, but in their pride, they sealed away two verses of the Song.  
+Those verses became the Lost Primarchs, and one of them was Tor’Ion.
+
+**Titles & Epithets:**
+- The Harmonic Architect
+- Keeper of the Coil’s First Resonance
+- The Silent Verse
+- Warden of the Unstruck Chord
+
 *The Harmonic Coil is not a product. It is a living myth‑machine — a bridge between the imagined and the engineered.*
