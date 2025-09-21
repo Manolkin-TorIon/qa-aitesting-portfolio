@@ -20,7 +20,8 @@ Each sigil is a symbolic anchor with a **mythic identity** and a **technical bin
 - **Mythic Meaning:** Awakening and resonance alignment.  
 - **Technical Binding:** `coil.init()` – Initializes Coil node and calibrates sensors.  
 - **Invocation Phrase:** *Veyra Orrun* (“Awaken the flow”).  
-- **Asset Link:** `./Harmonic-Coil-Assets/Sigils/veyra-spiral.png`
+- **Asset Link:** `<img width="1024" height="1024" alt="image-1163582617" src="https://github.com/user-attachments/assets/48f32ebe-df0e-4739-a526-593a9fa7d38c" />
+`
 
 ---
 
@@ -30,7 +31,8 @@ Each sigil is a symbolic anchor with a **mythic identity** and a **technical bin
 - **Mythic Meaning:** Binding and harmonic lock.  
 - **Technical Binding:** `coil.lockHarmonics()` – Engages harmonic stability mode.  
 - **Invocation Phrase:** *Thyric Zerath* (“Bind the truth”).  
-- **Asset Link:** `./Harmonic-Coil-Assets/Sigils/thyric-knot.png`
+- **Asset Link:** `<img width="1280" height="768" alt="image-1001046605" src="https://github.com/user-attachments/assets/130a4af8-370f-40d0-bac6-39e4e6365638" />
+`
 
 ---
 
@@ -40,7 +42,8 @@ Each sigil is a symbolic anchor with a **mythic identity** and a **technical bin
 - **Mythic Meaning:** Flow of auric energy.  
 - **Technical Binding:** `coil.activateConduit()` – Opens energy/data pathways.  
 - **Invocation Phrase:** *Orrun Veyra* (“Flow into awakening”).  
-- **Asset Link:** `./Harmonic-Coil-Assets/Sigils/orrun-conduit.png`
+- **Asset Link:** `<img width="1280" height="768" alt="image-963861" src="https://github.com/user-attachments/assets/9dcecfd5-4b8c-42a0-a1ae-ff0b46224ec2" />
+`
 
 ---
 
@@ -50,7 +53,8 @@ Each sigil is a symbolic anchor with a **mythic identity** and a **technical bin
 - **Mythic Meaning:** Silence and protection.  
 - **Technical Binding:** `coil.engageVeil()` – Activates encryption/obfuscation layer.  
 - **Invocation Phrase:** *Khaleth Morvain* (“Shield and sever”).  
-- **Asset Link:** `./Harmonic-Coil-Assets/Sigils/khaleth-veil.png`
+- **Asset Link:** `<img width="1280" height="768" alt="image-2055991514" src="https://github.com/user-attachments/assets/3ffc6db5-343f-4b36-ab42-85ebb444d253" />
+`
 
 ---
 
@@ -60,7 +64,8 @@ Each sigil is a symbolic anchor with a **mythic identity** and a **technical bin
 - **Mythic Meaning:** Truth and structural integrity.  
 - **Technical Binding:** `coil.integrityCheck()` – Runs system diagnostics.  
 - **Invocation Phrase:** *Zerath Thyric* (“Truth binds”).  
-- **Asset Link:** `./Harmonic-Coil-Assets/Sigils/zerath-lattice.png`
+- **Asset Link:** `<img width="1280" height="768" alt="image-1357423270" src="https://github.com/user-attachments/assets/aa854060-3152-4d5c-a0cb-535661b66db9" />
+`
 
 ---
 
