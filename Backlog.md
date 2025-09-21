@@ -56,9 +56,11 @@ When an item is fully integrated, it will be marked as **~~migrated~~** with the
 ---
 
 ## 🔄 Migration Log
-| Date | Item Migrated | Destination |
-|------|---------------|-------------|
-| — | — | — |
+| Date       | Item Migrated                                      | Destination                              |
+|------------|----------------------------------------------------|------------------------------------------|
+| 2025‑09‑21 | Added 'Veythar' term to Arcanum Vox Lexicon         | /MythOS/Arcanum-Vox-Lexicon.md           |
+| 2025‑09‑21 | Added 'Pulsebreaker' emergency protocol            | /MythOS/Doctrine-Codex.md                |
+| 2025‑09‑21 | Logged AMD render batch in Live Projects Log       | /Live-Projects.md                        |
 
 ---
 
