@@ -6,6 +6,13 @@
 
 ---
 
+## 📢 Disclaimer
+The following bug reports are **sample formats** created to demonstrate professional QA documentation style.  
+They are not necessarily based on issues I have personally encountered or reproduced.  
+Real bug reports will be added over time as they are discovered and verified.
+
+---
+
 ## 🧩 Purpose
 To demonstrate clear, reproducible, and developer‑ready bug reports across different domains — from game testing to AI workflows and system optimization.
 
