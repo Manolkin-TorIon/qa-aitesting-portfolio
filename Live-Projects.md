@@ -40,6 +40,7 @@ To track all active, paused, and recently completed projects across MythOS, Syst
 ---
 
 ## 📂 Related Files
-- `/MythOS/README.md` – Hub for Harmonic Coil and related systems.
+- [Backlog Harvest](./Backlog.md) – Full list of unported lore, assets, and technical notes.
+- [/MythOS/README.md](./MythOS/README.md) – Hub for Harmonic Coil and related systems.
 - `/System-Optimization/benchmark-results.md` – Latest performance data.
 - `/QA-Case-Studies/bug-report-samples.md` – QA format examples.
