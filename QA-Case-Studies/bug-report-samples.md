@@ -43,6 +43,22 @@ Player remains locked in grapple animation pose for 3–5 seconds, unable to mov
 **Severity:** High (affects combat flow in competitive matches)  
 **Attachments:** Video clip + frame‑time graph showing input lock duration.
 
+## Sample 1b -
+### Bug Report – Animation Lock on Vanguard Charge Cancel
+
+**Title:** Vanguard charge cancel leaves player in locked animation state  
+**Environment:** Space Marine 2 PvP – Closed Test Build (2025‑09‑15)  
+**Steps to Reproduce:**
+1. Equip Vanguard class.  
+2. Initiate charge attack.  
+3. Cancel charge mid‑animation by switching weapons.  
+4. Attempt to perform melee or dodge immediately after cancel.
+
+**Expected Result:** Player regains full control instantly after cancel.  
+**Actual Result:** Player remains locked in partial charge animation for ~1.5 seconds, unable to act.  
+**Frequency:** ~60% when cancel timing is within final 5 frames of charge wind‑up.  
+**Impact:** High – leaves player vulnerable in competitive scenarios.  
+**Notes:** Possibly related to animation state machine not resetting on cancel event.
 ---
 
 ## 📄 Sample 2 – AI Workflow Bug (Mythic Portrait Series)
