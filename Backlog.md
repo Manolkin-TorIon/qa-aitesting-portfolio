@@ -70,6 +70,8 @@ When an item is fully integrated, it will be marked as **~~migrated~~** with the
 | 2025‑09‑21 | Added ROCm kernel parameter tuning note             | /System-Optimization/rocm-tuning-notes.md|
 | 2025‑09‑21 | Added AR Sanctum environmental concept              | /MythOS/Harmonic-Coil-Visuals.md          |
 | 2025‑09‑21 | Added Space Marine 2 PvP animation lock bug report  | /QA-Case-Studies/bug-report-samples.md   |
+| 2025‑09‑21 | Added Redacted Choir exile fragment                 | /MythOS/Harmonic-Coil.md                  |
+| 2025‑09‑21 | Added BIOS stable OC profile                        | /System-Optimization/bios-configs.md     |
 
 ---
 
