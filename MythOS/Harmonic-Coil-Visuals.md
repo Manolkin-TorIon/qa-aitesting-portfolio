@@ -16,6 +16,14 @@ To generate consistent, high‑fidelity imagery of the Harmonic Coil for use in 
 [Mood/Atmosphere: lighting, tone, narrative moment]
 [Art Style: cinematic realism, blueprint schematic, or stylized concept art]
 
+### Environmental Concept – The Auric Well
+- **Mythic Description:** A circular sanctum chamber suspended in a void, its floor a transparent lattice over a slow‑turning auric vortex. Sigils drift in the air like constellations, aligning themselves when a rite is invoked.  
+- **Technical Notes:**  
+  - AR anchor points at floor perimeter for stable spatial mapping.  
+  - Dynamic lighting tied to active Resonance Profile.  
+  - Particle effects triggered by Arcanum Vox commands.  
+- **Intended Use:** Operator’s primary Coil interface space in AR mode; supports both ritual and technical workflows.
+
 ---
 
 ## 🖋 Example Prompt: Harmonic Coil central node,
