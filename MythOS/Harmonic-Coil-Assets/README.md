@@ -58,10 +58,5 @@ cinematic realism, ultra‑wide composition
 - `/MythOS/Harmonic-Coil-Visuals.md` – Prompt templates & QA checklist
 - `/MythOS/Arcanum-Vox-Lexicon.md` – Language bindings for Coil commands
 
-
 
-Why this matters
-- Turns the Coil into a trackable design lineage — every image has a story and a spec.
-- Makes your repo feel like a living R&D lab, not just a static document dump.
-- Gives collaborators a clear way to add to the archive without breaking consistency.
 
