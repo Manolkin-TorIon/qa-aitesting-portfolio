@@ -1,0 +1,67 @@
+# Backlog Harvest – Content Migration Tracker
+
+**Author:** Manolkin (Tor’Ion)  
+**Status:** Active – Updated as items are migrated from past threads into the repo
+
+---
+
+## 📜 Purpose
+This file tracks all content from previous collaborative threads that has not yet been ported into the repository.  
+Items are grouped by their destination section.  
+When an item is fully integrated, it will be marked as **~~migrated~~** with the date.
+
+---
+
+## 🗂 MythOS – Lore & Narrative
+- Redacted Choir: origin myth fragments, hierarchy, exile/return events
+- Primarch Tor’Ion: biography, titles, campaigns
+- Harmonic Coil lore: early prototypes, myths, operator lineage
+- Ritual fragments: cleansing, attunement, sealing, seasonal/celestial rites
+
+---
+
+## 🛠 MythOS – Technical & Structural
+- Arcanum Vox Lexicon: unlogged terms, variant dialects
+- Sigil Codex: placeholder entries for Thyric Knot, Orrun Conduit, Khaleth Veil, Zerath Lattice variants
+- Resonance Profiles: additional modes (Eclipse State, Pulsebreaker)
+- Doctrine Codex: unlogged emergency protocols, operator oath text
+
+---
+
+## ⚙ System Optimization
+- ROCm/AMD tuning notes: kernel parameter experiments, WSL integration troubleshooting
+- BIOS configurations: stable OC profiles, power/thermal tuning
+- Benchmark logs: historical performance data, before/after tuning comparisons
+
+---
+
+## 🧪 QA / AI Testing
+- Bug reports: Space Marine 2 PvP animation lock, PoE2 stutter/hitching, PvP stress‑test findings
+- Test plans: structured templates, edge‑case scenarios
+
+---
+
+## 🎨 Visuals & Assets
+- Harmonic Coil renders: AMD‑generated spirals (all variants), central node states
+- Environmental concepts: AR sanctum layouts, Coil physical installations
+- Sigil variants: alternate palettes, material treatments
+
+---
+
+## 📅 Live Projects
+- Unlogged active work: current tuning, QA, lore writing not yet in `/Live-Projects.md`
+- In‑progress AMD render batches
+- Ongoing PvP tester program contributions
+
+---
+
+## 🔄 Migration Log
+| Date | Item Migrated | Destination |
+|------|---------------|-------------|
+| — | — | — |
+
+---
+
+## 📂 Related Files
+- `/Live-Projects.md` – Current active work
+- `/MythOS/README.md` – MythOS hub
