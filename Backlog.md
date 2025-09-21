@@ -74,6 +74,8 @@ When an item is fully integrated, it will be marked as **~~migrated~~** with the
 | 2025‑09‑21 | Added BIOS stable OC profile                        | /System-Optimization/bios-configs.md     |
 | 2025‑09‑21 | Added Coil creation myth fragment                   | /MythOS/Harmonic-Coil.md                  |
 | 2025‑09‑21 | Added QA test plan template                         | /QA-Case-Studies/test-plan-template.md   |
+| 2025‑09‑21 | Added Operator’s Oath                               | /MythOS/Doctrine-Codex.md                |
+| 2025‑09‑21 | Added benchmark log                                 | /System-Optimization/benchmarks.md       |
 
 ---
 
