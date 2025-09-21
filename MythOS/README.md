@@ -59,7 +59,6 @@ Every addition, whether a new sigil, a refined prompt, or a lexicon entry, stren
 ---
 
 *MythOS is a bridge. The Harmonic Coil is the crossing.*
-## 📅 Live Projects Related to MythOS
-For an up‑to‑date view of active Coil work, lexicon expansions, and asset generation:
-
-- [Live Projects Log](../Live-Projects.md)
+## 📅 Live Work & Backlog
+- [Live Projects Log](../Live-Projects.md) – Current active MythOS work.
+- [Backlog Harvest](../Backlog.md) – Pending lore, doctrines, and assets to be integrated.
