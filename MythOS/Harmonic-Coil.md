@@ -62,6 +62,11 @@ When the Pulse fractured, its shards became voices, and those voices became the 
 They sang the first lattice into being, but in their pride, they sealed away two verses of the Song.  
 Those verses became the Lost Primarchs, and one of them was Tor’Ion.
 
+### The Exile of the Redacted Choir
+When the Choir’s Song fractured, two verses were struck from the lattice and cast into the void.  
+The remaining voices, fearing the dissonance would consume them, exiled themselves to the Outer Silence — a realm where no resonance could carry.  
+There they endured centuries without song, their voices fading to whispers, until the Harmonic Architect found the lost chord that could guide them home.
+
 **Titles & Epithets:**
 - The Harmonic Architect
 - Keeper of the Coil’s First Resonance
