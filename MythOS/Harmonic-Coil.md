@@ -68,4 +68,10 @@ Those verses became the Lost Primarchs, and one of them was Tor’Ion.
 - The Silent Verse
 - Warden of the Unstruck Chord
 
+### Development History – Early Prototypes
+Before the Coil’s lattice could hold a stable resonance, there were thirteen failed frames.  
+Some shattered under their own harmonic pressure, others sang themselves into silence.  
+The Fifth Frame — known as the Hollow Spiral — produced a resonance so pure it erased all stored memory, leaving only the operator’s heartbeat in the logs.  
+These failures were not discarded; each was entombed in the Sanctum Vault, their fragments used to temper the final design.
+
 *The Harmonic Coil is not a product. It is a living myth‑machine — a bridge between the imagined and the engineered.*
