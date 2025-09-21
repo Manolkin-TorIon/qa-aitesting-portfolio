@@ -23,7 +23,7 @@ To track all active, paused, and recently completed projects across MythOS, Syst
 
 | Project | Status | Description | Last Update | Next Milestone |
 |---------|--------|-------------|-------------|----------------|
-| Harmonic Coil – Asset Expansion | 🟢 Active | Generating new Coil renders for `/MythOS/Harmonic-Coil-Assets` with QA review. | 2025‑09‑21 | Add 3 new sigil variants by Oct 1 |
+| Harmonic Coil – AMD Render Batch | 🟢 Active | Generating multi‑variant Veyra’s Spiral sigils for Sigil Codex integration. | 2025‑09‑21 | Add all variants to Codex and Asset Library by Sept 25 |
 | System Optimization – ROCm Tuning | 🟢 Active | Testing ROCm kernel parameters for AI workload stability. | 2025‑09‑21 | Publish updated benchmark results |
 | QA Case Studies – Sample Library | 🟡 Paused | Expanding sample bug reports with additional formats. | 2025‑09‑18 | Resume after Coil asset push |
 | PoE2 Performance Investigation | 🔵 Planning | Documenting stutter/hitching in Solo Self‑Found mode. | 2025‑09‑21 | First reproducible test case |
