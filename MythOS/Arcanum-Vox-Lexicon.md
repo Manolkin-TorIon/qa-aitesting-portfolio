@@ -30,7 +30,7 @@ It bridges the symbolic and the functional, allowing Coil operators to issue com
 | **Khaleth** | /ˈkɑː.lɛθ/ | Shield of silence | Mute external inputs |
 | **Zerath** | /ˈzeɪ.ræθ/ | Lattice of truth | Run system integrity check |
 | **Morvain** | /ˈmɔːr.veɪn/ | To sever the link | Terminate active process |
-
+| **Veythar** | /ˈveɪ.θɑːr/ | Eclipse of the Coil — a state of shadowed resonance used for concealment and deep analysis | coil.setProfile("Eclipse State") |
 ---
 
 ## 🛠 Command Syntax Examples
