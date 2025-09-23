@@ -25,25 +25,100 @@ It serves as both a **mythic scripture** and a **technical standard**, ensuring 
 ## ⚙ Operational Rites
 Each rite is both a **ceremonial act** and a **system procedure**.
 
-### Rite of Auric Cleansing
-- **Mythic:** The operator passes the Coil through a veil of incense and light, purging discordant echoes.  
-- **Technical:** Runs a full system purge of residual cache, resets harmonic baselines, and re‑aligns sensor calibration.
+# Rite of Auric Cleansing
 
-### Rite of Alignment
-- **Mythic:** Aligns the Coil’s inner rings to the operator’s current resonance.  
-- **Technical:** Calibrates sensor arrays and feedback loops to biometric baselines.
+**Domain:** Mythic Core  
+**Lexicon Links:** Vastitas (vastness), Fractura (renewal)  
+**Cycle Position:** Purification rite before major recalibration
 
-### Rite of Severance
-- **Mythic:** Cuts a link without leaving echoes or residue.  
-- **Technical:** Safely terminates processes and clears volatile memory.
+## Invocation
+The Coil is passed through a veil of incense and light, each breath carrying away discordant echoes.  
+In the technical realm, this is the purge — clearing caches, resetting harmonic baselines, and re‑aligning sensors.
 
-### Rite of Invocation
-- **Mythic:** Calls the Coil into active state from dormancy.  
-- **Technical:** Powers up all nodes, loads active resonance profile.
+## Structure
+1. **Incense Veil** — Symbolic pass through cleansing medium.  
+2. **Baseline Reset** — Harmonic values returned to default.  
+3. **Sensor Re‑alignment** — Calibration to current environmental resonance.
 
-### Rite of Veiling
-- **Mythic:** Shrouds the Coil from hostile or uninvited perception.  
-- **Technical:** Engages encryption and obfuscation protocols.
+## Integration Notes
+- Crosslinked to Technical Backbone purge scripts.  
+- Logged in Migration Log as part of maintenance cycle rites.
+
+# Rite of Alignment
+
+**Domain:** Mythic Core  
+**Lexicon Links:** Arcus (cycle completion), Liminalis (transition)  
+**Cycle Position:** Resonance tuning rite
+
+## Invocation
+The Coil’s inner rings turn until they match the operator’s resonance, locking into harmonic unity.  
+Technically, sensor arrays and feedback loops calibrate to biometric baselines.
+
+## Structure
+1. **Ring Rotation** — Physical or symbolic alignment.  
+2. **Feedback Loop Calibration** — Match to operator’s biometric profile.  
+3. **Seal of Unity** — Confirmation of resonance lock.
+
+## Integration Notes
+- Linked to Technical Backbone calibration configs.  
+- Serves as pre‑operation rite in hybrid entries.
+
+# Rite of Severance
+
+**Domain:** Mythic Core  
+**Lexicon Links:** Kræ (fracture), Precisionem (exactness)  
+**Cycle Position:** Termination rite
+
+## Invocation
+A link is cut without echo or residue, leaving the Coil untouched by lingering threads.  
+Technically, processes are safely terminated and volatile memory cleared.
+
+## Structure
+1. **Cutting Gesture** — Symbolic severance.  
+2. **Process Termination** — Controlled shutdown.  
+3. **Memory Purge** — Volatile data cleared.
+
+## Integration Notes
+- Crosslinked to Technical Backbone shutdown protocols.  
+- Used in hybrid entries involving secure disengagement.
+
+# Rite of Invocation
+
+**Domain:** Mythic Core  
+**Lexicon Links:** Tzen (command cadence), Arcus (cycle initiation)  
+**Cycle Position:** Activation rite
+
+## Invocation
+From dormancy, the Coil is called into active state, nodes awakening in sequence.  
+Technically, all nodes power up and load the active resonance profile.
+
+## Structure
+1. **Call to Coil** — Vocal or symbolic summons.  
+2. **Node Awakening** — Sequential activation.  
+3. **Profile Load** — Resonance parameters applied.
+
+## Integration Notes
+- Linked to Technical Backbone startup configs.  
+- Serves as opening act in operational sequences.
+
+# Rite of Veiling
+
+**Domain:** Mythic Core  
+**Lexicon Links:** Vastitas (concealment), Liminalis (boundary)  
+**Cycle Position:** Concealment rite
+
+## Invocation
+The Coil is shrouded from hostile or uninvited perception, hidden in shadow and silence.  
+Technically, encryption and obfuscation protocols are engaged.
+
+## Structure
+1. **Veil Casting** — Symbolic concealment.  
+2. **Encryption Engage** — Secure data channels.  
+3. **Obfuscation Protocols** — Mask operational signatures.
+
+## Integration Notes
+- Crosslinked to Technical Backbone security configs.  
+- Used in hybrid entries involving stealth operations.
 
 # Rite of the Luminous Threshold
 
