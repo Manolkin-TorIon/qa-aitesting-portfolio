@@ -1,4 +1,4 @@
-# qa-aitesting-portfolio
+# QA-AI-testing-portfolio
 /QA-Case-Studies /AI-Image-Workflows /System-Optimization /Docs
 # QA + AI Testing Portfolio
 
