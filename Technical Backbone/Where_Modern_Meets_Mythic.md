@@ -1,3 +1,19 @@
+# Where Modern Meets Mythic
+
+This directory binds the Technical Backbone to the Mythic Core, creating fusion entries that carry both narrative resonance and operational precision.
+
+## Contents
+- Star‑Forge Thermal Rite → links to BIOS tuning profile
+- Iron Veil Latency Chant → links to Event Log diagnostics
+- Harmonic Coil Ledger → links to benchmark results
+- Glass Wastes Desync Trial → links to QA case study
+- Arcus Calibration Loop → links to ROCm optimization parameters
+
+## Purpose
+To ensure every technical artifact has a mythic counterpart, and every mythic entry is grounded in executable reality.
+
+---
+
 ## Technical Backbone — Migrated Configs & QA Artifacts
 
 | Artifact Name | Domain | Source | Core Content | Integration Notes |
