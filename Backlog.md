@@ -78,6 +78,14 @@ When an item is fully integrated, it will be marked as **~~migrated~~** with the
 | 2025‑09‑21 | Added benchmark log                                 | /System-Optimization/benchmarks.md       |
 | 2025‑09‑21 | Added Hollow Spiral aftermath lore                  | /MythOS/Harmonic-Coil.md                  |
 | 2025‑09‑21 | Added PvP stress‑test log                           | /QA-Case-Studies/stress-tests.md          |
+| 2025‑09‑23 | Added Deep Lexicon Layer — phoneme cache            | /MythOS/Arcanum-Vox-Lexicon.md           |
+| 2025‑09‑23 | Added Deep Lexicon Layer — semantic anchors         | /MythOS/Arcanum-Vox-Lexicon.md           |
+| 2025‑09‑23 | Added Technical Backbone placeholder.md             | /qa-aitesting-portfolio/Technical Backbone/placeholder.md |
+| 2025‑09‑23 | Added Hybrid Crosslinks — Star‑Forge Thermal Rite   | /Where-Modern-Meets-Mythic/starforge-thermal-rite.md |
+| 2025‑09‑23 | Added Hybrid Crosslinks — Iron Veil Latency Chant   | /Where-Modern-Meets-Mythic/iron-veil-latency-chant.md |
+| 2025‑09‑23 | Added Hybrid Crosslinks — Harmonic Coil Ledger      | /Where-Modern-Meets-Mythic/harmonic-coil-ledger.md |
+| 2025‑09‑23 | Added Hybrid Crosslinks — Glass Wastes Desync Trial | /Where-Modern-Meets-Mythic/glass-wastes-desync-trial.md |
+| 2025‑09‑23 | Added Hybrid Crosslinks — Arcus Calibration Loop    | /Where-Modern-Meets-Mythic/arcus-calibration-loop.md |
 ---
 
 ## 📂 Related Files
