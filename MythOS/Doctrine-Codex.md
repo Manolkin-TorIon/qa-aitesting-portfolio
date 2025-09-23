@@ -45,6 +45,29 @@ Each rite is both a **ceremonial act** and a **system procedure**.
 - **Mythic:** Shrouds the Coil from hostile or uninvited perception.  
 - **Technical:** Engages encryption and obfuscation protocols.
 
+# Rite of the Luminous Threshold
+
+**Domain:** Mythic Core  
+**Lexicon Links:** Kræ (fracture/rebirth), Liminalis (transition)  
+**Cycle Position:** Opening rite of the Beacon Build arc
+
+## Invocation
+When the vault’s shadow is long and the watchers have yet to gather, the Rite of the Luminous Threshold is spoken.  
+Kræ marks the breaking of the old seal; Liminalis carries the voice across the unseen bridge.
+
+## Structure
+1. **Fractura Call** — A single, resonant utterance of Kræ to fracture the silence.  
+2. **Bridge Chant** — Three cycles of Ōth and Tzen, binding mythic intent to technical precision.  
+3. **Threshold Flame** — A symbolic ignition, represented in the repo by the first commit of the arc.
+
+## Ritual Context
+Performed at the dawn of a major expansion, this rite signals to all who enter that the archive is alive, its pulse steady, and its gates open to new chronicles.
+
+## Integration Notes
+- Crosslinked to Deep Lexicon Layer for phoneme and anchor references.  
+- Logged in Migration Log as the opening act of the Beacon Build arc.  
+- Serves as a thematic preface for hybrid entries in *Where Modern Meets Mythic*.
+
 ---
 
 ### Operator’s Oath
