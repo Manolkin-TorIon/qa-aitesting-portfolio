@@ -47,16 +47,15 @@ It bridges the symbolic and the functional, allowing Coil operators to issue com
 
 ---
 
-## Arcanum Vox — Recovered Phoneme Cache
+## Arcanum Vox — Semantic Anchor Layer
 
-| Phoneme | IPA   | Domain Tag   | Ritual Usage |
-|---------|-------|--------------|--------------|
-| Kræ     | /kræ/ | Mythic Core  | Invocation of fracture and rebirth; used at the start of binding chants. |
-| Ōth     | /oːθ/ | Hybrid       | Signals transition between technical and mythic registers in liturgy. |
-| Vyr     | /viːr/| Technical    | Marks precision clauses in ritual schematics or system incantations. |
-| Shaal   | /ʃɑːl/| Mythic Core  | Denotes vastness or cosmic scale; often paired with star‑forge rites. |
-| Tzen    | /tsɛn/| Hybrid       | Used in cadence locks, bridging mythic narrative and operational command. |
-| Ærk     | /æɹk/ | Mythic Core  | Symbol of arc and return; closes cyclical chants. |
+| Anchor Term | Concept Domain | Linked Phoneme(s) | Core Meaning | Ritual Context |
+|-------------|----------------|-------------------|--------------|----------------|
+| Fractura    | Mythic Core    | Kræ               | Breaking as sacred renewal; destruction as precursor to creation. | Invoked at the opening of binding rites to mark the threshold moment. |
+| Liminalis   | Hybrid         | Ōth, Tzen         | Transitional state between realms or systems. | Used in chants bridging mythic narrative and operational command sequences. |
+| Precisionem | Technical      | Vyr               | Exactness and unerring execution. | Embedded in schematics and incantations for system calibration. |
+| Vastitas    | Mythic Core    | Shaal             | Infinite expanse; cosmic scale beyond mortal comprehension. | Paired with star‑forge rites and celestial mapping ceremonies. |
+| Arcus       | Mythic Core    | Ærk               | The arc, return, and completion of cycles. | Closes cyclical chants and marks the end of ritual loops. |
 
 ---
 
