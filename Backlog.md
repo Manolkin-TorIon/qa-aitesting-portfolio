@@ -86,6 +86,8 @@ When an item is fully integrated, it will be marked as **~~migrated~~** with the
 | 2025‑09‑23 | Added Hybrid Crosslinks — Harmonic Coil Ledger      | /Where-Modern-Meets-Mythic/harmonic-coil-ledger.md |
 | 2025‑09‑23 | Added Hybrid Crosslinks — Glass Wastes Desync Trial | /Where-Modern-Meets-Mythic/glass-wastes-desync-trial.md |
 | 2025‑09‑23 | Added Hybrid Crosslinks — Arcus Calibration Loop    | /Where-Modern-Meets-Mythic/arcus-calibration-loop.md |
+| 2025‑09‑23 | Set profile sigil (Warhammer‑inspired avatar) | /Meta/Profile-Identity.md |
+
 ---
 
 ## 📂 Related Files
