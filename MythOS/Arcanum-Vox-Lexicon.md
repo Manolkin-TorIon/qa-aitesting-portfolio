@@ -31,6 +31,33 @@ It bridges the symbolic and the functional, allowing Coil operators to issue com
 | **Zerath** | /ˈzeɪ.ræθ/ | Lattice of truth | Run system integrity check |
 | **Morvain** | /ˈmɔːr.veɪn/ | To sever the link | Terminate active process |
 | **Veythar** | /ˈveɪ.θɑːr/ | Eclipse of the Coil — a state of shadowed resonance used for concealment and deep analysis | coil.setProfile("Eclipse State") |
+
+---
+
+## Arcanum Vox — Recovered Phoneme Cache
+
+| Phoneme | IPA   | Domain Tag   | Ritual Usage |
+|---------|-------|--------------|--------------|
+| Kræ     | /kræ/ | Mythic Core  | Invocation of fracture and rebirth; used at the start of binding chants. |
+| Ōth     | /oːθ/ | Hybrid       | Signals transition between technical and mythic registers in liturgy. |
+| Vyr     | /viːr/| Technical    | Marks precision clauses in ritual schematics or system incantations. |
+| Shaal   | /ʃɑːl/| Mythic Core  | Denotes vastness or cosmic scale; often paired with star‑forge rites. |
+| Tzen    | /tsɛn/| Hybrid       | Used in cadence locks, bridging mythic narrative and operational command. |
+| Ærk     | /æɹk/ | Mythic Core  | Symbol of arc and return; closes cyclical chants. |
+
+---
+
+## Arcanum Vox — Recovered Phoneme Cache
+
+| Phoneme | IPA   | Domain Tag   | Ritual Usage |
+|---------|-------|--------------|--------------|
+| Kræ     | /kræ/ | Mythic Core  | Invocation of fracture and rebirth; used at the start of binding chants. |
+| Ōth     | /oːθ/ | Hybrid       | Signals transition between technical and mythic registers in liturgy. |
+| Vyr     | /viːr/| Technical    | Marks precision clauses in ritual schematics or system incantations. |
+| Shaal   | /ʃɑːl/| Mythic Core  | Denotes vastness or cosmic scale; often paired with star‑forge rites. |
+| Tzen    | /tsɛn/| Hybrid       | Used in cadence locks, bridging mythic narrative and operational command. |
+| Ærk     | /æɹk/ | Mythic Core  | Symbol of arc and return; closes cyclical chants. |
+
 ---
 
 ## 🛠 Command Syntax Examples
