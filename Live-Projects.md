@@ -41,6 +41,15 @@ To track all active, paused, and recently completed projects across MythOS, Syst
 
 ---
 
+## Completed This Cycle
+
+| Project | Completion Date | Summary |
+|---------|-----------------|---------|
+| **Codex Entry Renaming & Index Creation** | 2025‑09‑23 | Unified entry naming to numbered format and built Codex‑Index with linked blurbs for each entry. |
+| **Codex Entry 03 Integration** | 2025‑09‑23 | Added AI combat algorithm documentation and adaptive cadence notes to the Codex. |
+
+---
+
 ## 🔍 Notes
 - This log is updated **as soon as a project’s status changes**.
 - Each entry links back to its main file or folder in the repo for deeper context.
