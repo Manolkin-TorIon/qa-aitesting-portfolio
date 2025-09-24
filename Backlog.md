@@ -118,3 +118,5 @@ When an item is fully integrated, it will be marked as **~~migrated~~** with the
 - `/MythOS/README.md` – MythOS hub
 -`Technical Backbone
 /Where_Modern_Meets_Mythic.md`
+- `/The-Harmonic-Coil-Codex`
+
