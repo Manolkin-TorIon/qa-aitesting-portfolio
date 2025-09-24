@@ -88,6 +88,29 @@ When an item is fully integrated, it will be marked as **~~migrated~~** with the
 | 2025‑09‑23 | Added Hybrid Crosslinks — Arcus Calibration Loop    | /Where-Modern-Meets-Mythic/arcus-calibration-loop.md |
 | 2025‑09‑23 | Set profile sigil (Warhammer‑inspired avatar) | /Meta/Profile-Identity.md |
 
+## [2025‑09‑23] — Codex Index Alignment & Entry 03 Integration
+
+**Actions:**
+- Renamed Codex entries to numbered format (`01-`, `02-`, `03-`) for enforced sequential order.
+- Created `Codex-Index.md` with direct links and concise blurbs for each entry.
+- Added Codex Entry 03 to index, documenting AI combat algorithm observations and adaptive cadence strategies.
+
+**Rationale:**
+- Establishes a stable navigational spine for future expansion into multi‑book series.
+- Preserves mythic cadence while ensuring technical clarity for collaborators and dev contacts.
+- Ensures new entries are immediately discoverable and crosslinked.
+
+**Impact:**
+- Repo now presents entries in intended narrative order.
+- Index serves as both lore gateway and quick‑reference map.
+- Entry 03’s inclusion captures current AI behavioral data for ongoing analysis.
+- Future migration to tiered “library” structure will be a straightforward swap.
+
+**Next Steps:**
+- Monitor for additional entries requiring index updates.
+- Prepare sub‑index template for eventual multi‑book expansion.
+- Continue logging AI algorithm observations in future runs for Entry 03’s growth.
+
 ---
 
 ## 📂 Related Files
